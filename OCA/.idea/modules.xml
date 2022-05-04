@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OCP/InterfaceKatze/InterfaceKatze.iml" filepath="$PROJECT_DIR$/OCP/InterfaceKatze/InterfaceKatze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan/Juan.iml" filepath="$PROJECT_DIR$/Juan/Juan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/OCA/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA.iml" filepath="$PROJECT_DIR$/OCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/abstracTickets/abstracTickets.iml" filepath="$PROJECT_DIR$/OCA/abstracTickets/abstracTickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/baumaschineSimon/baumaschineSimon.iml" filepath="$PROJECT_DIR$/OCA/baumaschineSimon/baumaschineSimon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/claseAnonima/claseAnonima.iml" filepath="$PROJECT_DIR$/OCP/claseAnonima/claseAnonima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/enum/enum.iml" filepath="$PROJECT_DIR$/OCP/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/enum2/enum2.iml" filepath="$PROJECT_DIR$/OCP/enum2/enum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/exceptionPlus/exceptionPlus.iml" filepath="$PROJECT_DIR$/OCA/exceptionPlus/exceptionPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/interfaceGetrankae/interfaceGetrankae.iml" filepath="$PROJECT_DIR$/OCA/interfaceGetrankae/interfaceGetrankae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/laberinto/laberinto.iml" filepath="$PROJECT_DIR$/OCP/laberinto/laberinto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/laberintoEspaniol/laberintoEspaniol.iml" filepath="$PROJECT_DIR$/OCP/laberintoEspaniol/laberintoEspaniol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/lambdaAusNormaleInterfaces/lambdaAusNormaleInterfaces.iml" filepath="$PROJECT_DIR$/OCP/lambdaAusNormaleInterfaces/lambdaAusNormaleInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/noseQueEs/noseQueEs.iml" filepath="$PROJECT_DIR$/OCP/noseQueEs/noseQueEs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/poligonoChibolo/poligonoChibolo.iml" filepath="$PROJECT_DIR$/OCA/poligonoChibolo/poligonoChibolo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA_StudyGuide/4_MethodsAndEncapsulation/sobreCargaMetodos/sobreCargaMetodos.iml" filepath="$PROJECT_DIR$/OCA_StudyGuide/4_MethodsAndEncapsulation/sobreCargaMetodos/sobreCargaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/uvoLambda/uvoLambda.iml" filepath="$PROJECT_DIR$/OCP/uvoLambda/uvoLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/vererbung/vererbung.iml" filepath="$PROJECT_DIR$/OCA/vererbung/vererbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/vererbungBaumaschin/vererbungBaumaschin.iml" filepath="$PROJECT_DIR$/OCA/vererbungBaumaschin/vererbungBaumaschin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCA/vererbungProdukt/vererbungProdukt.iml" filepath="$PROJECT_DIR$/OCA/vererbungProdukt/vererbungProdukt.iml" />
+    </modules>
+  </component>
+</project>

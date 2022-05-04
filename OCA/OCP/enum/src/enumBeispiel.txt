@@ -1,0 +1,21 @@
+public class EnumTest5
+{
+   public static void main( String[] args )
+   {
+      double a = 5, b = 6;
+      for( Flaeche f : Figur5.values() )
+         System.out.println( f + ": Flaeche (" + a + ", " + b + ") = " + f.flaeche( a, b ) );
+   }
+}
+
+enum Figur5 implements Flaeche
+{
+   RECHTECK { public double flaeche( double a, double b ) { return a * b; } },
+   DREIECK  { public double flaeche( double a, double b ) { return a * b / 2; } },
+   ELLIPSE  { public double flaeche( double a, double b ) { return a * b * Math.PI / 4; } };
+}
+
+// Implementiertes Interface:
+interface Flaeche
+{
+   double flaeche( double a, double b );
